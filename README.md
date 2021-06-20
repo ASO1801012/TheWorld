@@ -1,3 +1,14 @@
+## 語学学習マッチングアプリ
+・言語:PHP、JavaScript、HTML5、CSS3  
+・フレームワーク:Laravel、Bootstrap、Node.js  
+・開発期間:2ヶ月  
+・開発方法:チーム開発、アジャイル開発  
+・人数:5人  
+・役割:チャット  
+・私の学校には様々な国籍の方が在籍しているので生徒同士で言語をビデオチャットで教え合うことができるサイトを作成しました。  
+開発アプリデモ動画:https://youtu.be/5fF5izEBLIw  
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
