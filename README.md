@@ -20,6 +20,8 @@
 
 レッスン履歴......自分の今までのレッスン累計数を表示します。  
 
+管理者:生徒データの変更、CSVファイルによる一括登録が可能
+
 開発アプリデモ動画:https://youtu.be/5fF5izEBLIw  
 URL:https://oops-aim.ssl-lolipop.jp/TheWorld  
 ID:1801012 password:2051sho
